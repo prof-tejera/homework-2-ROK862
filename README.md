@@ -3,7 +3,7 @@ Find me here: https://rok862.github.io/CSCIE39HomeWork2/
 
 # How did you deploy it?
 - I used github pages to deploy my project. However, since i am using SCSS preprocessor for partical effects, i needed to install `npm install sass` on the host. To achieve this, I added the `Install SASS` step to the build job.
-- I also programmed a few scripts for color animation, just to make my life a bit harder :).
+- I also programmed a few scripts for color animation--just to make my life a bit harder :).
 
 What code editor are you using?
 - I used visual studio code, preferably in browser. Makes things work easier, particulary when working with github repo's.
