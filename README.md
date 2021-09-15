@@ -1,3 +1,7 @@
+# Project URL
+Find me here: https://rok862.github.io/CSCIE39HomeWork2/
+
+
 # React - Dev Setup and Deployment
 
 This assignment is intented to help you set up your development environment for React. You will create a simple React App and deploy using one of the methods covered in lecture.
