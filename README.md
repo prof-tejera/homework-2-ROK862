@@ -2,7 +2,7 @@
 Find me here: https://rok862.github.io/CSCIE39HomeWork2/
 
 # How did you deploy it?
-- I used github pages to deploy my project. However, since i am using SCSS preprocessor for partical effects, i needed to run `npm install sass` on the host. To achieve this, I added the `Install SASS` step to the build job--which is triggered everytime there is a change to the master branch.
+- I used github pages to deploy my project. However, since i am using SCSS with SASS preprocessor for partical effects, i needed to run `npm install sass` on the host. To achieve this, I added the `Install SASS` step to the build job--which is triggered everytime there is a change to the master branch.
 
 # What code editor are you using?
 - I used visual studio code, preferably in browser. Makes things work easier, particulary when working with github repo's.
